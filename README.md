@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bkaan99&show_icons=true">
 
 # Merhaba, ben Bilge Kaan Gürgen! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bkaan99" alt="bkaan99" /> </p>
