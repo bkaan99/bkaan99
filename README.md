@@ -3,8 +3,8 @@
 # Merhaba, ben Bilge Kaan Gürgen! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bkaan99" alt="bkaan99" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov)
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/cobanov)
+
+[![](https://img.shields.io/github/followers/bkaan99?style=social)](https://www.github.com/bkaan99)
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/mertcobanov)
