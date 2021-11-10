@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
 
-# Merhaba, ben Mert Cobanov! 
+# Merhaba, ben Bilge Kaan Gürgen! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
 
 [![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov)
