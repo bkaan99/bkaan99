@@ -14,3 +14,4 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bkaan99)
 
 [![Mail Badge](https://img.shields.io/badge/bilgekagan99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bilgekagan99@gmail.com)](mailto:bilgekagan99@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/bilgekagangurgen@msn.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bilgekagangurgen@msn.com)](mailto:bilgekagangurgen@msn.com)
