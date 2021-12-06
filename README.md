@@ -31,7 +31,6 @@
  .
  <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/bdeb720d94d0ad1c3f02a3e1168c87ba51ce2da6/static/img/logo_xilinx.svg" alt="xilinx" width="90" height="50"/> 
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/487px-OpenCV_Logo_with_text_svg_version.svg
 </p>
 
 <p align="center">
