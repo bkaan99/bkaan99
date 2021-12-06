@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bkaan99" alt="bkaan99" /> </p>
 
-- 👩‍💻 I am currently working as an <b>Computer Vision and AI Developer</b> in a company.
+- 👩‍💻 I am Research and developing as an <b>Circuit Design , Simulate , Computer Vision and AI </b> in a MBK Digital .
 
 - 🚀 All of my projects are available at [https://www.github.com/bkaan99](https://www.github.com/bkaan99)
 
