@@ -11,23 +11,22 @@
 
 - 💬 Ask me about PCB and Circuit Design , Machine Learning , Deep Learning
  
- <p align="left">
+<p align="center">
  
- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+.
+ <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
+ .
+ <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="50" height="50"/>
+ .
+ <img src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor" alt="pycharm" width="70" height="50"/> 
+.
+ <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="50" height="50"/> 
+ .
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Altium_Logo.svg/664px-Altium_Logo.svg.png" alt="altium" width="90" height="40"/> 
+ .
+ <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/bdeb720d94d0ad1c3f02a3e1168c87ba51ce2da6/static/img/logo_xilinx.svg" alt="xilinx" width="90" height="50"/> 
 
- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
- 
- <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/>
- 
- <img src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor" alt="pycharm" width="40" height="40"/>
-
- <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
- 
- <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/altium.svg" alt="git" width="40" height="40"/> 
- 
- <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/bdeb720d94d0ad1c3f02a3e1168c87ba51ce2da6/static/img/logo_xilinx.svg" alt="git" width="40" height="40"/> 
-
- <img src="https://upload.wikimedia.org/wikipedia/fr/a/ac/Logo_-_Xilinx.svg" alt="git" width="40" height="40"/> 
 
 </p>
 
