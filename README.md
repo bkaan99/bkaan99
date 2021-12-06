@@ -23,6 +23,8 @@
 .
  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="50" height="50"/> 
  .
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/matlab/matlab-original.svg" alt="git" width="50" height="50"/>
+ .
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Altium_Logo.svg/664px-Altium_Logo.svg.png" alt="altium" width="90" height="40"/> 
  .
  <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/bdeb720d94d0ad1c3f02a3e1168c87ba51ce2da6/static/img/logo_xilinx.svg" alt="xilinx" width="90" height="50"/> 
