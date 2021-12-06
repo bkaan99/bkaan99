@@ -14,7 +14,6 @@
  <p align="left">
  
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-![1f44b](https://user-images.githubusercontent.com/85191979/144883944-ccb2f690-d1c2-49e5-b3ea-350b2ef0c118.png)
 
  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
  
@@ -25,10 +24,8 @@
  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
 </p>
 
-
 <p align="center">
-<a href="https://linkedin.com/in/bilgekaangurgen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bkaan99" height="30" width="30" /></a>![1f4eb](https://user-images.githubusercontent.com/85191979/144883932-6ed2d77c-cf43-481c-8df1-07d87446f322.png)
-
+<a href="https://linkedin.com/in/bilgekaangurgen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bkaan99" height="30" width="30" /></a>
 --
- <a href="https://instagram.com/bkaan99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bkaan99" height="30" width="30" /></a>
+<a href="https://instagram.com/bkaan99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bkaan99" height="30" width="30" /></a>
 </p>
