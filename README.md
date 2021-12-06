@@ -7,7 +7,7 @@
 
 - 🚀 All of my projects are available at [https://www.github.com/bkaan99](https://www.github.com/bkaan99)
 
-- 📫 How to reach me **suhedacilek@gmail.com**
+- 📫 How to reach me **bilgekagan99@gmail.com**
 
 - 💬 Ask me about Machine Learning, Deep Learning
  
