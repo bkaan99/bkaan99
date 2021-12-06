@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bilge Kaan Gürgen 👋</h1>
 <h3 align="center">I'm interested in Artificial Intelligence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhedacilek" alt="bkaan99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bkaan99" alt="bkaan99" /> </p>
 
 - 👩‍💻 I am currently working as an <b>Computer Vision and AI Developer</b> in a company.
 
