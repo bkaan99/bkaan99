@@ -14,10 +14,12 @@
 <p align="center">
  
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
-.
+ .
+ <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/opencv.svg" alt="" width="50" height="50"/>
+ .
  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
  .
- <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="50" height="50"/>
+ <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="50"/>
  .
  <img src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor" alt="pycharm" width="70" height="50"/> 
 .
@@ -29,7 +31,7 @@
  .
  <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/bdeb720d94d0ad1c3f02a3e1168c87ba51ce2da6/static/img/logo_xilinx.svg" alt="xilinx" width="90" height="50"/> 
 
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/487px-OpenCV_Logo_with_text_svg_version.svg
 </p>
 
 <p align="center">
