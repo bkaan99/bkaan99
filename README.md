@@ -27,8 +27,6 @@
 
 <p align="center">
 <a href="https://kaggle.com/suhedacilek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="suhedacilek" height="30" width="30" /></a>
-<a href="https://twitter.com/suhecode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="suhecode" height="30" width="30" /></a>![1f469-1f4bb](https://user-images.githubusercontent.com/85191979/144881323-6a2280c0-df26-4e88-9b15-b0e93930bdb4.png)
-
 <a href="https://linkedin.com/in/bilgekaangurgen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bkaan99" height="30" width="30" /></a>
 <a href="https://instagram.com/bkaan99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bkaan99" height="30" width="30" /></a>
 </p>
