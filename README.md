@@ -22,6 +22,13 @@
  <img src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor" alt="pycharm" width="40" height="40"/>
 
  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
+ 
+ <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/altium.svg" alt="git" width="40" height="40"/> 
+ 
+ <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/bdeb720d94d0ad1c3f02a3e1168c87ba51ce2da6/static/img/logo_xilinx.svg" alt="git" width="40" height="40"/> 
+
+ <img src="https://upload.wikimedia.org/wikipedia/fr/a/ac/Logo_-_Xilinx.svg" alt="git" width="40" height="40"/> 
+
 </p>
 
 <p align="center">
