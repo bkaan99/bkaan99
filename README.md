@@ -25,8 +25,6 @@
 </p>
 
 
-<p align="center">
-<a href="https://kaggle.com/suhedacilek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="suhedacilek" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/bilgekaangurgen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bkaan99" height="30" width="30" /></a>
 <a href="https://instagram.com/bkaan99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bkaan99" height="30" width="30" /></a>
 </p>
