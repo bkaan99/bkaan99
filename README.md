@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Süheda Çilek 👋</h1>
+<h1 align="center">Hi, I'm Bilge Kaan Gürgen 👋</h1>
 <h3 align="center">I'm interested in Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhedacilek" alt="Bilge Kaan Gürgen" /> </p>
