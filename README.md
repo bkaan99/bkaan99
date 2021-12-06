@@ -5,7 +5,7 @@
 
 - 👩‍💻 I am currently working as an <b>Computer Vision and AI Developer</b> in a company.
 
-- 🚀 All of my projects are available at [https://www.github.com/bkaan99](https://www.github.com/suhedacilek)
+- 🚀 All of my projects are available at [https://www.github.com/bkaan99](https://www.github.com/bkaan99)
 
 - 📫 How to reach me **suhedacilek@gmail.com**
 
