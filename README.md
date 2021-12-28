@@ -19,8 +19,6 @@
  .
  <img title="OpenCV" alt="OpenCV" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/opencv.svg"  width="50" height="50"/>
  .
- <img title="Pytorch" alt="Python" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"  width="50" height="50"/>
- .
  <img title="Python" alt="Python" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"  width="40" height="50"/>
  .
  <img title="PyCharm" alt="tensorflow" src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor"  width="70" height="50"/> 
@@ -32,7 +30,11 @@
  <img title="Altium" alt="Altium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Altium_Logo.svg/664px-Altium_Logo.svg.png"  width="90" height="40"/> 
  .
  <img title="xilinx" alt="xilinx" src="https://raw.githubusercontent.com/todogroup/todogroup.org/bdeb720d94d0ad1c3f02a3e1168c87ba51ce2da6/static/img/logo_xilinx.svg" width="90" height="50"/> 
+ .
+ <img title="Autodesk Eagle" alt="Altium" src="https://peoplevine.blob.core.windows.net/files/397/business/3631/3631_logo-20200319045341.png"  width="50" height="50"/> 
+ 
 
+ 
 </p>
 
 <p align="center">
