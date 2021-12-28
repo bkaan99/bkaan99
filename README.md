@@ -15,23 +15,23 @@
  
 <p align="center">
  
- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+ <img title="Tensorflow" alt="tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"  width="50" height="50"/>
  .
- <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/opencv.svg" alt="" width="50" height="50"/>
+ <img title="OpenCV" alt="OpenCV" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/opencv.svg"  width="50" height="50"/>
  .
- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
+ <img title="Pytorch" alt="Python" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"  width="50" height="50"/>
  .
- <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="50"/>
+ <img title="Python" alt="Python" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"  width="40" height="50"/>
  .
- <img src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor" alt="pycharm" width="70" height="50"/> 
+ <img title="PyCharm" alt="tensorflow" src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor"  width="70" height="50"/> 
 .
- <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="50" height="50"/> 
+ <img title="Git" alt="Git" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"  width="50" height="50"/> 
  .
- <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/matlab/matlab-original.svg" alt="git" width="50" height="50"/>
+ <img title="Matlab" alt="Matlab" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/matlab/matlab-original.svg" width="50" height="50"/>
  .
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Altium_Logo.svg/664px-Altium_Logo.svg.png" alt="altium" width="90" height="40"/> 
+ <img title="Altium" alt="Altium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Altium_Logo.svg/664px-Altium_Logo.svg.png"  width="90" height="40"/> 
  .
- <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/bdeb720d94d0ad1c3f02a3e1168c87ba51ce2da6/static/img/logo_xilinx.svg" alt="xilinx" width="90" height="50"/> 
+ <img title="xilinx" alt="xilinx" src="https://raw.githubusercontent.com/todogroup/todogroup.org/bdeb720d94d0ad1c3f02a3e1168c87ba51ce2da6/static/img/logo_xilinx.svg" width="90" height="50"/> 
 
 </p>
 
