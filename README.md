@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Bilge Kaan Gürgen 👋</h1>
-<h3 align="center">I'm interested in Artificial Intelligence</h3>
+### Hello I'm Bilge Kaan Gürgen
+![version :28.12.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=bkaan99&color=red)&nbsp;
+[![GitHub bkaan99](https://img.shields.io/github/followers/bkaan99?label=follow&style=social)](https://github.com/bkaan99)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bkaan99" alt="bkaan99" /> </p>
 
 - 👩‍💻 I am Research and developing as an <b>Circuit Design , Simulate , Computer Vision and AI </b> in a MBK Digital .
 
