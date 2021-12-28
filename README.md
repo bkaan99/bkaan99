@@ -41,6 +41,15 @@
 
 </p>
 
+### Dev Boards
+
+<p align="justify"> 
+
+<img title="Arduino" alt="Dev Boards" src="https://github.com/detain/svg-logos/blob/master/svg/arduino-1.svg" width="50" height="50"/>
+<img title="Raspberry" alt="Dev Boards" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50"/>
+ 
+</p> 
+
 ### Others
 
 <p align="justify"> 
