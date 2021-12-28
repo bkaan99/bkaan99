@@ -35,17 +35,19 @@
 <img title="Matlab" alt="Matlab" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/matlab/matlab-original.svg" width="50" height="50"/>
 <img title="Xilinx Vivado" alt="xilinx" src="https://raw.githubusercontent.com/todogroup/todogroup.org/bdeb720d94d0ad1c3f02a3e1168c87ba51ce2da6/static/img/logo_xilinx.svg" width="90" height="50"/> 
 <img title="Altium" alt="Altium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Altium_Logo.svg/664px-Altium_Logo.svg.png"  width="90" height="40"/> 
+<img title="OpenRocket" alt="Rocket" src="https://avatars.githubusercontent.com/u/2109567?s=280&v=4"  width="50" height="50"/> 
 <img title="Autodesk Eagle" alt="Autodesk" src="https://peoplevine.blob.core.windows.net/files/397/business/3631/3631_logo-20200319045341.png"  width="50" height="50"/> 
-<img title="Autodesk Autocad" alt="Autodesk" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AutoCad_logo.svg/100px-AutoCad_logo.svg.png"  width="180" height="50"/> 
+<img title="Autodesk Autocad" alt="Autodesk" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AutoCad_logo.svg/100px-AutoCad_logo.svg.png"  width="180" height="45"/> 
 
 </p>
 
 ### Others
 
 <p align="justify"> 
-<img title="Office" alt="Office" src="https://github.com/kogg/instant-logos/blob/develop/logos/Microsoft%20Office.svg"  width="50" height="50"/> 
-<img title="MS Project" alt="Office" src="https://github.com/file-icons/icons/blob/master/svg/Microsoft-Project.svg"  width="50" height="50"/> 
- 
+<img title="Office" alt="Office" src="https://github.com/kogg/instant-logos/blob/develop/logos/Microsoft%20Office.svg"  width="40" height="40"/> 
+<img title="MS Project" alt="Office" src="https://github.com/file-icons/icons/blob/master/svg/Microsoft-Project.svg"  width="40" height="40"/> 
+<img title="Photoshop" alt="Office" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_photoshop.svg "  width="40" height="40"/> 
+
 </p>
  
 <p align="center">
