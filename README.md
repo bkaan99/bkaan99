@@ -1,5 +1,5 @@
 ## Hello I'm Bilge Kaan Gürgen
-![version :28.12.2021](https://img.shields.io/badge/version-28.12.2021-informational) &nbsp;
+![version :05.01.2022](https://img.shields.io/badge/version-28.12.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=bkaan99&color=red)&nbsp;
 [![GitHub bkaan99](https://img.shields.io/github/followers/bkaan99?label=follow&style=social)](https://github.com/bkaan99)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bilgekagan99@gmail.com**  ---  **bilgekagangurgen@msn.com**
 
-- 💬 Ask me about PCB and Circuit Design , Machine Learning , Deep Learning
+- 💬 Ask me about PCB and Circuit Design , Avionic Hardwares , Projects...
 
 ### Softwares
 
