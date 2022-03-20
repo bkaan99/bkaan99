@@ -5,7 +5,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
-- 👩‍💻 I am Research and developing as an <b>Avionic Systems , Circuit Design , Simulation , Computer Vision and AI </b> in a MBK Vision .
+- 👩‍💻 I am Research and developing as an <b>Avionic Systems , Web Design , Circuit Design , Simulation , Computer Vision and AI </b> in a MBK Vision .
 
 - 🚀 All of my projects are available at [https://www.github.com/bkaan99](https://www.github.com/bkaan99)
 
