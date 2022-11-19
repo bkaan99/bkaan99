@@ -1,68 +1,28 @@
-## Hello I'm Bilge Kaan Gürgen
-![version :21.03.2022](https://img.shields.io/badge/version-21.03.2022-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=bkaan99&color=red)&nbsp;
-[![GitHub bkaan99](https://img.shields.io/github/followers/bkaan99?label=follow&style=social)](https://github.com/bkaan99)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+<h1 align="center">Hi 👋, I'm Bilge Kaan GÜRGEN</h1>
+<h3 align="center">Machine Learning & Electronical Engineer in Turkey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bkaan99&label=Profile%20views&color=0e75b6&style=flat" alt="bkaan99" /> </p>
 
-- 👩‍💻 I am Research and developing as an <b>Avionic Systems , Web Design , Circuit Design , Simulation , Computer Vision and AI </b> in a MBK Vision .
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkaan99" alt="bkaan99" /></a> </p>
 
-- 🚀 All of my projects are available at [https://www.github.com/bkaan99](https://www.github.com/bkaan99)
+- 🌱 I’m currently learning **Pytorch & Keras**
 
-- 📫 How to reach me **bilgekagan99@gmail.com**  ---  **bilgekagangurgen@msn.com**
+- 👨‍💻 All of my projects are available at [bkaan99.github.io](bkaan99.github.io)
 
-- 💬 Ask me about PCB and Circuit Design , Avionic Hardwares , Projects...
+- 💬 Ask me about **Machine Learning, AI, Electronic, IOT**
 
-### Softwares
+- 📫 How to reach me **bilgekagan99@gmail.com & bilgekagangurgen@msn.com**
 
-<p align="justify">
- 
-<img title="Python" alt="Python" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"  width="50" height="50"/>
-<img title="OpenCV" alt="OpenCV" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/opencv.svg"  width="50" height="50"/>
-<img title="Tensorflow" alt="tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"  width="50" height="50"/>
-<img title="HTML" alt="web" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg"  width="50" height="50"/>
-<img title="CSS" alt="web" src="https://github.com/gilbarbara/logos/blob/master/logos/css-3.svg"  width="50" height="50"/> 
-<img title="VS Code" alt="web" src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg"  width="50"/>
-<img title="Visual Studio" alt="web" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"  width="50" height="50"/> 
-<img title="PyCharm" alt="tensorflow" src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor"  width="70" height="50"/>  
-<img title="Git" alt="Git" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"  width="45" height="45"/> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bilgekaangurgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilgekaangurgen" height="30" width="40" /></a>
 </p>
 
-### Engineering Programs
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align="justify"> 
- 
-<img title="Matlab" alt="Matlab" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/matlab/matlab-original.svg" width="50" height="50"/>
-<img title="Xilinx Vivado" alt="xilinx" src="https://raw.githubusercontent.com/todogroup/todogroup.org/bdeb720d94d0ad1c3f02a3e1168c87ba51ce2da6/static/img/logo_xilinx.svg" width="90" height="50"/> 
-<img title="Altium" alt="Altium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Altium_Logo.svg/664px-Altium_Logo.svg.png"  width="90" height="40"/> 
-<img title="OpenRocket" alt="Rocket" src="https://avatars.githubusercontent.com/u/2109567?s=280&v=4"  width="50" height="50"/> 
-<img title="Autodesk Eagle" alt="Autodesk" src="https://peoplevine.blob.core.windows.net/files/397/business/3631/3631_logo-20200319045341.png"  width="50" height="50"/> 
-<img title="Autodesk Autocad" alt="Autodesk" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AutoCad_logo.svg/100px-AutoCad_logo.svg.png"  width="180" height="45"/> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bkaan99&show_icons=true&locale=en&layout=compact" alt="bkaan99" /></p>
 
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bkaan99&show_icons=true&locale=en" alt="bkaan99" /></p>
 
-### Dev Boards
-
-<p align="justify"> 
-
-<img title="Arduino" alt="Dev Boards" src="https://github.com/detain/svg-logos/blob/master/svg/arduino-1.svg" width="50" height="50"/>
-<img title="Raspberry" alt="Dev Boards" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50"/>
-<img title="STM" alt="Dev Boards" src="https://github.com/simple-icons/simple-icons/blob/master/icons/stmicroelectronics.svg" width="50" height="50"/>
-
-
-</p> 
-
-### Others
-
-<p align="justify"> 
-<img title="Office" alt="Office" src="https://github.com/kogg/instant-logos/blob/develop/logos/Microsoft%20Office.svg"  width="40" height="40"/> 
-<img title="MS Project" alt="Office" src="https://github.com/file-icons/icons/blob/master/svg/Microsoft-Project.svg"  width="40" height="40"/> 
-<img title="Photoshop" alt="Office" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_photoshop.svg "  width="40" height="40"/> 
-
-</p>
- 
-<p align="center">
-<a href="https://linkedin.com/in/bilgekaangurgen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bkaan99" height="30" width="30" /></a>
---
-<a href="https://instagram.com/bkaan99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bkaan99" height="30" width="30" /></a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bkaan99&" alt="bkaan99" /></p>
