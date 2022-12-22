@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bkaan99&label=Profile%20views&color=0e75b6&style=flat" alt="bkaan99" /> </p>
 
-- 🌱 I’m currently learning **Avionic, Image Processing & Deep Learning Special Projects**
+- 🌱 I’m currently learning **Avionic, MultiLayer PCB Design, Image Processing & Deep Learning Special Projects**
+
+- 🎄 I am improving myself on topics such as **"PCB", "Deep Learning" ,"MedicaL AI", "Model Rocketary".** 
 
 - 👨‍💻 All of my projects are available at [github/bkaan99](https://github.com/bkaan99)
 
