@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bkaan99&label=Profile%20views&color=0e75b6&style=flat" alt="bkaan99" /> </p>
 
-- 🌱 I’m currently learning **Avionic, MultiLayer PCB Design, Image Processing & Deep Learning Special Projects**
+- 🌱 I’m currently learning **Avionic, MultiLayer PCB Design, Image Processing, Medical AI & Deep Learning Special Projects**
 
-- 🎄 I am improving myself on topics such as **"PCB", "Deep Learning" ,"MedicaL AI", "Model Rocketary".** 
+- 🎄 I am improving myself on topics such as **"PyTorch", "TensorFlow", "FastAI", "TensorRT", "Yolo", "WandB" "Deep Learning Models" ,"MedicaL AI", "Model Rocketary".** 
 
 - 👨‍💻 All of my projects are available at [github/bkaan99](https://github.com/bkaan99)
 
-- 💬 Ask me about **Machine Learning, AI, Electronic Circuits, Power Electronics, Avionic IOT**
+- 💬 Ask me about **Machine Learning, AI, Electronic Circuits, Power Electronics, Avionic, IOT**
 
 - 📫 How to reach me **bilgekagan99@gmail.com & bilgekagangurgen@msn.com**
 
